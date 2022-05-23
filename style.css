@@ -1,0 +1,41 @@
+
+h1 {
+    font-size: 30px;
+    font-family: "Raleway", sans-serif;
+    color: black;
+    margin-left: 5%;
+}
+h2{
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    color: black;
+    margin-left: 5%;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: "Raleway", sans-serif;
+    color: black;
+    margin-top: -20%;
+}
+body, html {
+    height: 100%;
+    font-size: small;
+}
+p {
+    line-height: 2
+}
+.bgimg, .bgimg2 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.bgimg {
+    background-image:url("https://media.gettyimages.com/photos/pink-clouds-at-sunset-picture-id1227360827?k=20&m=1227360827&s=612x612&w=0&h=uNLLsKo-s--fQ3QQ_YUiHBzj5eOJ0asXUkgh0wnDymw=")
+}
+.bgimg2 {
+    background-image: url("https://quotefancy.com/media/wallpaper/3840x2160/18655-Jean-Luc-Godard-Quote-Photography-is-truth.jpg")
+}
+.Images{
+    border-radius: 10%;
+}
